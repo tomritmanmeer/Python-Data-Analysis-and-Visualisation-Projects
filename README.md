@@ -1,4 +1,4 @@
-# Python-Data-Analysis-and-Plotting-Projects
+# Python-Data-Analysis-and-Visualisation-Projects
 
 Data analysis and visualisation projects from a range of individual projects and applications.
 
